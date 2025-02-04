@@ -55,9 +55,13 @@ python Project1_Perceptron_Learning_Rule.py
 
 ## 📂 Project Structure
 📦 Perceptron_Learning_Rule
+
 │-- 📄 README.md                # Project documentation
+
 │-- 📄 Project1_Perceptron_Learning_Rule.py  # Main Python script
+
 │-- 📄 Perceptron_Learning_Rule_Analytics.pdf # Report with detailed explanation
+
 │-- 🖼 Input1.png    # Visualization of decision boundaries
 
 
