@@ -23,3 +23,16 @@ Ensure you have **Python 3.x** installed along with the required dependencies.
 Run the following command to install dependencies:
 ```sh
 pip install numpy matplotlib
+
+## 📊 Results & Visualization
+### **1️⃣ Convergence of the Model**
+- The perceptron **converges in 5 epochs**, meaning the weights stabilize, and all classifications become correct.
+
+### **2️⃣ Decision Boundary Evolution**
+- The **decision boundary changes** dynamically as weights are updated.
+- The **final boundary correctly classifies all points**.
+
+<p align="center">
+  <img src="Input1.png" alt="Decision Boundary Visualization" width="500">
+</p>
+
